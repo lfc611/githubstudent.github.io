@@ -2,7 +2,7 @@
 
 ---
 
-
+{% include nav.html %}
 {% include intro.html %}
 
 ## So amazing we're using Markdown
